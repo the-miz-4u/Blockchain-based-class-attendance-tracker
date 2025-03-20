@@ -29,3 +29,8 @@ The vision of this project is to revolutionize the way attendance is tracked in 
 - **Decentralization:** No central authority controls the attendance records, ensuring fairness and transparency.
 - **Easy Integration:** The smart contract can be easily integrated with other systems and applications.
 - **User-Friendly:** Simple and intuitive interface for marking and viewing attendance.
+
+
+## Contract Address :
+0xde2fd883f10b2d5238cdd168629ac4a3ccf6bf99
+![image](https://github.com/user-attachments/assets/fe68fafe-359d-41e6-98c5-19df9271a872)
