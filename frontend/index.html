@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class Attendance Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Class Attendance Tracker</h1>
+        
+        <div class="attendance-form">
+            <input type="text" id="studentName" placeholder="Enter your name" required>
+            <select id="attendanceStatus">
+                <option value="true">Present</option>
+                <option value="false">Absent</option>
+            </select>
+            <button onclick="markAttendance()">Mark Attendance</button>
+        </div>
+
+        <div class="attendance-records">
+            <h2>Your Attendance Records</h2>
+            <ul id="attendanceList"></ul>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.6.1/dist/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
