@@ -27,3 +27,7 @@ The vision of this project is to revolutionize the way attendance is tracked in 
 ## Contract Address :
 0xde2fd883f10b2d5238cdd168629ac4a3ccf6bf99
 ![image](https://github.com/user-attachments/assets/fe68fafe-359d-41e6-98c5-19df9271a872)
+
+## Frontend :
+![image](https://github.com/user-attachments/assets/cd836bf6-c1a7-4a94-88bc-3f745f8ec26c)
+
